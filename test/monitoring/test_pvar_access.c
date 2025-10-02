@@ -41,6 +41,7 @@ I       3       2       20 bytes        4 msgs sent
 
 */
 
+#include <stdint.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <mpi.h>
