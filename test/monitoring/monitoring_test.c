@@ -62,6 +62,7 @@ A2A     1       0 bytes 0 msgs sent
 */
 
 
+#include <stdint.h>
 #include "mpi.h"
 #include <stdio.h>
 #include <string.h>
