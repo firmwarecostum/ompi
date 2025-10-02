@@ -6,6 +6,7 @@
  * Simple example usage of SPCs through MPI_T.
  */
 
+#include <stdint.h>
 #include "mpi.h"
 #include <stdio.h>
 #include <stdlib.h>
