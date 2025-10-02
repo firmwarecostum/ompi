@@ -19,6 +19,7 @@
   mpirun -n 4 --mca pml_monitoring_enable 2 ./check_monitoring
 */
 
+#include <stdint.h>
 #include <mpi.h>
 #include <stdlib.h>
 #include <stdio.h>
